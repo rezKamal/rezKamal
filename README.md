@@ -1,1 +1,1 @@
-I'm Rezhwan Kamal, a Swarthmore College junior studying CS & Engineering. My GitHub contains various projects that I have worked on, both academic and personal. Contact me if you want to learn more about my work!
+I'm Rezhwan Kamal, a Swarthmore College junior studying CS & Engineering. My GitHub contains various projects that I have worked on, both academic and personal. See my personal website [here](https://rezkamal.github.io/rezKamal/)!
